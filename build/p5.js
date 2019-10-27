@@ -9,4 +9,6 @@ function plus5(a) {
     return a + 5;
 }
 console.log(`${x}: ${is_not_letter_1.default(x).toString()} `);
-console.log(plus5(is_not_letter_1.default(x)));
+// console.log( plus5(isNotLetter(x)));
+// console.log(`${isNotLetter(x) + 10 }`);
+const y = is_not_letter_1.default(x);

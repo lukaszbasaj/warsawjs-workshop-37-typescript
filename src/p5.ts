@@ -7,8 +7,8 @@ function plus5(a: number) {
 }
 
 console.log(`${x}: ${ isNotLetter(x).toString()} `);
-console.log( plus5(isNotLetter(x)));
+// console.log( plus5(isNotLetter(x)));
 
-console.log(`${isNotLetter(x) + 10 }`);
+// console.log(`${isNotLetter(x) + 10 }`);
 
 const y = isNotLetter(x);
