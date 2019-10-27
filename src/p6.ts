@@ -2,11 +2,11 @@ function f(x: string): number {
     return x.length;
 }
 
-function z(x: number): void {
+function z(x: string): void {
 
 }
 
-function g(h: Function) {
+function g(h: (a: string) => number) {
     console.log( h('abc'));
 }
 
