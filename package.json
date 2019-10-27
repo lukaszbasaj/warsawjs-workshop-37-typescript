@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lukaszbasaj/warsawjs-workshop-37-typescript/issues"
   },
-  "homepage": "https://github.com/lukaszbasaj/warsawjs-workshop-37-typescript#readme"
+  "homepage": "https://github.com/lukaszbasaj/warsawjs-workshop-37-typescript#readme",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
 }
