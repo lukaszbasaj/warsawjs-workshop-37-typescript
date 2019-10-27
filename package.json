@@ -2,7 +2,7 @@
   "name": "warsawjs-workshop-37-typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "start": "node build/p2.js",
     "build": "tsc",
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/lukaszbasaj/warsawjs-workshop-37-typescript#readme",
   "dependencies": {
     "is-letter": "^1.2.1",
+    "is-not-letter": "0.0.1",
     "ts-essentials": "^3.0.2",
     "typescript": "^3.6.4"
   }
