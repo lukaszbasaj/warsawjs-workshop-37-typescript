@@ -21,6 +21,7 @@
   "homepage": "https://github.com/lukaszbasaj/warsawjs-workshop-37-typescript#readme",
   "dependencies": {
     "is-letter": "^1.2.1",
+    "ts-essentials": "^3.0.2",
     "typescript": "^3.6.4"
   }
 }
